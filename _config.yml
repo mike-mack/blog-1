@@ -1,0 +1,7 @@
+title: Blog 1
+description: My personal blog
+baseurl: "" # leave empty for GitHub Pages
+url: "https://mike-mack.github.io/blog-1"
+theme: minima
+plugins:
+  - jekyll-feed
